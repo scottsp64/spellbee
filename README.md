@@ -20,3 +20,6 @@ I figure I'll import a large wordlist and then program an algorithm to slice and
 * Letters can be used more than once.
 
 Right now I am just trying to develop something that works, with an eye to making it better and more efficient. Since almost everything I do is straight procedural programming, this requires a new way of thinking.
+
+## 
+Word list obtained from https://github.com/dwyl/english-words
